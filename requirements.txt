@@ -1,0 +1,9 @@
+#Marvin Pilay, Johnny Cambisaca, George Gonzalez
+
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+psycopg2-binary  
+python-jose[cryptography]
+passlib[bcrypt]

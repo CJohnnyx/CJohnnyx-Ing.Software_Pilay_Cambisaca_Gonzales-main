@@ -1,0 +1,15 @@
+#Entorno virutal
+.env/
+
+# Archivos de configuración de VS Code
+.vscode/
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+
+# Archivos de log y bases de datos temporales
+
+
+# Archivos de sistema
+
