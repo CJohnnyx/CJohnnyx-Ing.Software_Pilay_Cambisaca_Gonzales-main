@@ -1,12 +1,25 @@
-# React + Vite
+FRONTEND
+Johnny Cambisaca: se encargo de crear iniciar y corregir errores del entorno en el que se trabajo.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Marvin Pilay: se encargo del diseño y funcionamiento de las paginas de las citas certificado e historial.
 
-Currently, two official plugins are available:
+George Gonzalez: Se encargo de la vista de home y la parte visual de toda la aplicación web.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+                        aplicación web
+                         vite + react
 
-## Expanding the ESLint configuration
+INSTALAR
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+dependencia adicionales
+
+npm install react-router-dom framer-motion lucide-react
+
+taillwind
+hay problemas con las versiones de tailwind v3/v4 asegurarse instalar todos los siguientes incluso en la redundancia
+
+npm install -D tailwindcss postcss autoprefixer
+npm install tailwindcss @tailwindcss/postcss postcss
+npm install -D tailwindcss@latest @tailwindcss/postcss postcss autoprefixer
+
+iniciar servidor
+npm run dev
